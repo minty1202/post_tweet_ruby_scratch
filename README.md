@@ -1,0 +1,2 @@
+# post_tweet_ruby_scratch
+練習用 RubyでTwitterにpostするだけのスクリプト
